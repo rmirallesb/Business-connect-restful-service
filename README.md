@@ -1,5 +1,7 @@
 # Business-connect-restful-service
 
+MIT LICENSE
+
 Copyright (c) 2015 Raul Miralles
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
