@@ -1,5 +1,4 @@
 # Business-connect-restful-service
-Business connect restful service project
 
 Copyright (c) 2015 Raul Miralles
 
